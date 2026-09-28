@@ -1,0 +1,9 @@
+{
+  "name": "FrizzQOL_Fermenter_Control",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/frizzlebeard/FrizzQOL.FermenterControl",
+  "description": "Set the fermenter time, and see the time left in color when you look at it.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
